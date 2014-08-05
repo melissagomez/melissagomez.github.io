@@ -1,0 +1,12 @@
+# Site settings
+title: You just have to commit.
+email: melissago@gmail.com
+description: "Mostly about web-development and the discoveries and aha moments along the way. Student at Treehouse."
+baseurl: ""
+url: "http://melissagomez.github.io"
+twitter_username: melissagomez
+github_username:  melissagomez
+
+# Build settings
+markdown: kramdown
+permalink: pretty
