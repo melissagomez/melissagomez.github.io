@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2014-08-05 00:45:38
+categories: jekyll update
+---
+
 I started 2014 with my definite resolution to commit to coding/web development. I relate a lot to the commands that are used in the Terminal -- I even want to use it as inspiration sometimes. I will commit. I will -sass watch over my self.  
 
 I started the new year with classes in HTML/CSS/JavaScript over at [Skillcrush](www.skillcrush.com). I tried keeping up and loved the social aspect of it. It seemed as if there was always someone in the chat or the message boards, but I fell behind but signed up for their Web Developer course that also taught some Ruby and became familiar using the command line. 
