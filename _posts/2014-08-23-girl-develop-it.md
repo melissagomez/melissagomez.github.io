@@ -2,7 +2,6 @@
 layout: post
 title:  "Girl Develop It: First Meetup"
 quote: "It's essential to gather with other programers!"
-date: {{ page.date | date: "%-d %B %Y" }}
 comments: true
 ---
 ![Photo By Aurelia Moser](/assets/gdi.jpg "Girl Develop It Meetup")
