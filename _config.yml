@@ -1,12 +1,54 @@
-# Site settings
-title: You just have to commit.
-email: melissago@gmail.com
-description: "Mostly about web-development and the discoveries and aha moments along the way. Student at Treehouse."
-baseurl: ""
-url: "http://melissagomez.github.io"
-twitter_username: melissagomez
-github_username:  melissagomez
+# Dependencies
+markdown:	kramdown
+highlighter:	pygments
 
-# Build settings
-markdown: kramdown
-permalink: pretty
+# Permalinks
+permalink:	/blog/:title
+
+# Setup
+title:		You've Got to Commit
+tagline:	'blog'
+description:	'My documentation of the ride into web-development.'
+url:		http://melissagomez.github.io
+commentsystem:	google
+
+author:
+  name:		'Melissa Gomez'
+  url:		https://google.com/+MelissaGomezPhoto
+
+paginate:	10
+
+# Custom vars
+icon:		/assets/images/icon.png
+cover:		/assets/images/cover.jpg
+
+social:
+  - icon:	twitter
+    url:	https://twitter.com/melissagomez
+    desc:	Follow me on twitter
+
+  - icon:	github
+    url:	https://github.com/melissagomez
+    desc:	Fork me on github
+
+  - icon:	googleplus-alt
+    url:	https://google.com/+MelissaGomezPhoto
+    desc:	Add me on google+
+
+
+    
+menu:
+  - title:	Home
+    url:	/
+    
+  - title:	About
+    url:	/about
+    
+copyright:
+  author:	Camporez
+  url:		http://camporez.com
+  type_title:	Some rights reserved
+  type_url:	http://creativecommons.org/licenses/by-nc/2.5
+
+# Google Analytics (add the UA Code, e.g.: UA-xxxxxxxx-1)
+google_analytics:UA-53432345-1
